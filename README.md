@@ -2,4 +2,6 @@ Este é um projeto onde desenvolvi com JavaScript um minigame para brincar com n
 
 https://jogo-do-numero-secreto-pink-one.vercel.app
 
-É um projeto de começo onde irei aprimorar e fazer algumas alterações como fazer meu próprio HTML E CSS em breve
+É um projeto de começo onde irei aprimorar e fazer algumas alterações como fazer meu próprio HTML E CSS em breve. 
+
+
